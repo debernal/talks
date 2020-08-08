@@ -10,6 +10,7 @@ Enhancing YARA rules
 The Zeek Hunter VM, used to do the workshop exercises and that contains all the analyzed samples, can be freely downloaded from:
 https://drive.google.com/file/d/1nPu7lFGxinyJUhCiLJNwu25cppoJrYMn
 https://www.dropbox.com/s/x3bapepoxl7ekyh/ZeekHunter-YaraWorkshop.zip?dl=0
+https://drive.google.com/file/d/1Cwx9w23XhrDVMHdcSg7vlzw9ushDPAGh/view?usp=sharing
 
 Agenda
 Introduction

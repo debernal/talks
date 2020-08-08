@@ -1,7 +1,7 @@
 DEFCON 28 2020 - Blue Team Village Talk  
 500 Participants from all over the world!
 
-YARA rules have become one of the de facto industry standards for threat detection on files. It is important that blue teamers know what are YARA rules and the basic skills to correctly leverage them on file system, memory dumps and traffic analysis. This is useful for multiple blue team roles mainly malware researchers, security analysts, threat hunters and intelligence analyst.
+YARA has become one of the de facto industry standards for threat detection on files. It is important that blue teamers know what are YARA rules and the basic skills to correctly leverage them on file system, memory dumps and traffic analysis. This is useful for multiple blue team roles mainly malware researchers, security analysts, threat hunters and intelligence analyst.
 
 Writing YARA rules
 Reading YARA rules

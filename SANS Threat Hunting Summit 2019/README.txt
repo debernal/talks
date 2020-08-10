@@ -1,0 +1,3 @@
+In this talk, @darkslaker and I shared how open source tools Sysmon, ELK stack and Windows Event Logs can be used to enhance endpoint visibility on the enterprise. Practical examples in Kibana are provided on how to hunt for attack techniques that have been commonly used for attacking enterprises including file less, lateral movement and password spraying attacks. A general methodology is shared on how develop and maintain a Sysmon audit configuration for the enterprise. 
+
+Thanks to the community researchers that shared valuable contributions for developing this talk: Roberto Rodriguez (@Cyb3rWard0g) and @SwiftOnSecurity.
